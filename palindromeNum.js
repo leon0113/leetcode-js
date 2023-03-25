@@ -6,3 +6,4 @@ const isPalindrome = x => {
 
 
 const result = isPalindrome(124);
+console.log(result);
