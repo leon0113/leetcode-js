@@ -21,4 +21,14 @@ const longestPrefix = strs => {
 
 const strs = ["flower", "flow", "flight"];
 const result = longestPrefix(strs);
-console.log(result);
+// console.log(result);
+
+
+
+
+
+const a = "flow";
+const b = "flower";
+
+const c = a.indexOf("fl");
+console.log(c);
