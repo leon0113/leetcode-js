@@ -14,3 +14,4 @@ var calPoints = operations => {
 
 const result = calPoints(["5", "2", "C", "D", "+"]);
 
+console.log(result);
